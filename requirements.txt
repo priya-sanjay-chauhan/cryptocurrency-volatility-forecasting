@@ -1,0 +1,11 @@
+pandas
+numpy
+matplotlib
+tqdm
+scikit-learn
+optuna
+ipywidgets
+websocket-client
+kaggle
+arch
+streamlit
